@@ -14,7 +14,7 @@ If It's secured then it shows like this
 <img src="./secure.png">
 ------------------------------–--------------------------
 If not then it shows like this 
-<img src="nonsecure.png>
+<img src="./nonsecure.png>
 
 ------------------------------–--------------------------
 Have a nice day :)
