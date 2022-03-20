@@ -10,11 +10,8 @@ Plss make sure u give credit to us it's just a simple joke file to show how webs
         };
 
 ------------------------------–--------------------------
-If It's secured then it shows like this 
+STAY RELAXED AND HAPPY AND LEAVE THE REST TO US:
 <img src="./secure.png">
-------------------------------–--------------------------
-If not then it shows like this 
-<img src="./nonsecure.png">
 
 ------------------------------–--------------------------
 Have a nice day :)
