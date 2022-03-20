@@ -8,3 +8,13 @@ Plss make sure u give credit to us it's just a simple joke file to show how webs
         else    {
                 emilion();
         };
+
+------------------------------–--------------------------
+If It's secured then it shows like this 
+<img src="./secure.png">
+------------------------------–--------------------------
+If not then it shows like this 
+<img src="nonsecure.png>
+
+------------------------------–--------------------------
+Have a nice day :)
